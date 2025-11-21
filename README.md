@@ -57,7 +57,7 @@ http://127.0.0.1:8000/swagger/
 
 1. Clone the project:
 ```bash
-git clone 
+git clone https://github.com/Dmytro-Burdeniuk/django_rest_event.git
 cd django_rest_event
 ```
 
